@@ -1,3 +1,10 @@
+# MIT License
+# Copyright (c) 2025 Brett Daley and Prabhat Nagarajan
+# Copyright (c) 2026 Prabhat Nagarajan
+#
+# Portions derived from https://github.com/prabhatnagarajan/reg-duel-q:
+# `RDQNetwork.forward`, `RDQNetwork.forward_q`, `RDQNetwork.forward_v`
+
 import torch
 import torch.nn as nn
 

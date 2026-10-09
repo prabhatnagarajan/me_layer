@@ -1,3 +1,10 @@
+# MIT License
+# Copyright (c) 2025 Brett Daley and Prabhat Nagarajan
+# Copyright (c) 2026 Prabhat Nagarajan
+#
+# Portions derived from https://github.com/prabhatnagarajan/reg-duel-q:
+# `generate_step_sizes`
+
 import os
 import table_rl
 import numpy as np

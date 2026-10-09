@@ -1,3 +1,10 @@
+# MIT License
+# Copyright (c) 2025 Brett Daley and Prabhat Nagarajan
+# Copyright (c) 2026 Prabhat Nagarajan
+#
+# Portions derived from https://github.com/prabhatnagarajan/reg-duel-q:
+# `semi_gradient_mse`, `RegularizedDuelingQLearning`
+
 import pfrl
 from pfrl.action_value import ActionValue
 from me_layer.agents import DQN
